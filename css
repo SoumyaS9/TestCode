@@ -1,0 +1,46 @@
+.testCode .section {
+  padding: 0;
+  margin: 0;
+}
+
+.testCode .section .Column1,
+.Column2,
+.Column3 {
+  display: inline-block;
+}
+
+.testCode .section .Box {
+  width: 100px;
+  height: 400px;
+}
+
+.testCode .section .para {
+  text-align: center;
+  color: #ffffff;
+  font-weight: Bold;
+  font-size: 30px;
+}
+
+.testCode .section .color-grey {
+  background-color: #6F98A8;
+  width: 100px;
+  height: 100px;
+}
+
+.testCode .section .color-blue {
+  background-color: #2B8EAD;
+  width: 100px;
+  height: 100px;
+}
+
+.testCode .section .color-black {
+  background-color: #2F454E;
+  width: 100px;
+  height: 100px;
+}
+
+.testCode .section .color-ash {
+  background-color: #BFBFBF;
+  width: 100px;
+  height: 100px;
+}
